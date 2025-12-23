@@ -16,4 +16,4 @@ Criar uma interface interativa onde o usuário pode digitar seu nome e trocar me
 2. Baixe o arquivo `.py`.
 3. Abra o terminal na pasta do arquivo e digite:
    ```bash
-   python nome_do_seu_arquivo.py
+   python main.py
